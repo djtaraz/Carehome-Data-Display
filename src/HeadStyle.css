@@ -1,0 +1,33 @@
+.headerContain{
+  width: 100%;
+  margin: 0;
+  border-bottom: solid 5px rgb(232, 237, 238);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+}
+
+.left img{
+  width: 20%;
+  margin-left: 2vw;
+  margin-top: 2vh;
+}
+
+.left p{
+  margin-left: 2vw;
+  margin-top: 0;
+}
+#leftP1{
+  font-size: x-large;
+  font-weight: 600;
+  margin-bottom: 0px;
+  color: rgb(35, 31, 32);
+}
+#leftP2{
+  font-size: medium;
+  font-weight: 500;
+  margin-top: -10px;
+  color: rgb(0, 94, 184);
+}
+
